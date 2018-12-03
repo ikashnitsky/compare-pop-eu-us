@@ -7,7 +7,8 @@ This repository contains code to replicate all elements of my poster presented a
 
 The poster won NVD Poster Award via online voting of the conference participants.
 
-| [![fig2][f2]][f2] | [![fig3][f3]][f3] |
+
+<img src="https://ikashnitsky.github.io/images/181203/poster-award-voting.png" align="left" width="300" /> <img src="https://ikashnitsky.github.io/images/181203/poster-award.png" align="right" width="300" />
 
 
 # More links
@@ -26,9 +27,4 @@ The poster won NVD Poster Award via online voting of the conference participants
 [demres17]: https://doi.org/10.4054/DemRes.2017.36.21
 [dr18]: https://github.com/ikashnitsky/demres-2018-geofacet
 
-
-
-
 [f1]: https://ikashnitsky.github.io/images/181203/compare-poster.png
-[f2]: https://ikashnitsky.github.io/images/181203/poster-award-voting.jpg
-[f3]: https://ikashnitsky.github.io/images/181203/poster-award.jpg
