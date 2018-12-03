@@ -8,7 +8,7 @@ This repository contains code to replicate all elements of my poster presented a
 The poster won NVD Poster Award via online voting of the conference participants.
 
 
-<img src="https://ikashnitsky.github.io/images/181203/poster-award-voting.png" align="left" width="300" /> <img src="https://ikashnitsky.github.io/images/181203/poster-award.png" align="right" width="300" />
+<img src="https://ikashnitsky.github.io/images/181203/poster-award-voting.jpg" align="left" width="300" /> <img src="https://ikashnitsky.github.io/images/181203/poster-award.jpg" align="right" width="300" />
 
 
 # More links
