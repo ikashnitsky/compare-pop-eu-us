@@ -7,10 +7,8 @@ This repository contains code to replicate all elements of my poster presented a
 
 The poster won NVD Poster Award via online voting of the conference participants.
 
+[![fig2][f2]][f2]  
 
-<img src="https://ikashnitsky.github.io/images/181203/poster-award-voting.jpg" align="left" width="300" /> <img src="https://ikashnitsky.github.io/images/181203/poster-award.jpg" align="right" width="300" />  
-
-<br>    
 
 ## SEE ALSO
  - [Kashnitsky, I., & Schöley, J. (2018). Regional population structures at a glance. _The Lancet_, 392(10143), 209–210.][tl]
@@ -27,3 +25,4 @@ The poster won NVD Poster Award via online voting of the conference participants
 [dr18]: https://github.com/ikashnitsky/demres-2018-geofacet
 
 [f1]: https://ikashnitsky.github.io/images/181203/compare-poster.png
+[f2]: https://ikashnitsky.github.io/images/181203/poster-award.png
