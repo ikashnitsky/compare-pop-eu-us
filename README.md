@@ -7,7 +7,7 @@ This repository contains code to replicate all elements of my poster presented a
 
 The poster won NVD Poster Award via online voting of the conference participants.
 
-| [![fig2][f2]][f2] | [![fig3][f3]][f3]
+| [![fig2][f2]][f2] | [![fig3][f3]][f3] |
 
 
 # More links
