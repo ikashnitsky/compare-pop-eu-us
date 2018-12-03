@@ -10,9 +10,7 @@ The poster won NVD Poster Award via online voting of the conference participants
 
 <img src="https://ikashnitsky.github.io/images/181203/poster-award-voting.jpg" align="left" width="300" /> <img src="https://ikashnitsky.github.io/images/181203/poster-award.jpg" align="right" width="300" />  
 
-  
-
-# More links
+<br>    
 
 ## SEE ALSO
  - [Kashnitsky, I., & Schöley, J. (2018). Regional population structures at a glance. _The Lancet_, 392(10143), 209–210.][tl]
