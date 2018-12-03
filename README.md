@@ -30,5 +30,5 @@ The poster won NVD Poster Award via online voting of the conference participants
 
 
 [f1]: https://ikashnitsky.github.io/images/181203/compare-poster.png
-[f2]: https://ikashnitsky.github.io/images/181203/poster-award-voting.png
-[f3]: https://ikashnitsky.github.io/images/181203/poster-award.png
+[f2]: https://ikashnitsky.github.io/images/181203/poster-award-voting.jpg
+[f3]: https://ikashnitsky.github.io/images/181203/poster-award.jpg
