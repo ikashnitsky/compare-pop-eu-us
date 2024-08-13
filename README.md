@@ -24,5 +24,5 @@ The poster won NVD Poster Award via online voting of the conference participants
 [demres17]: https://doi.org/10.4054/DemRes.2017.36.21
 [dr18]: https://github.com/ikashnitsky/demres-2018-geofacet
 
-[f1]: https://ikashnitsky.github.io/images/181203/compare-poster.png
-[f2]: https://ikashnitsky.github.io/images/181203/poster-award.png
+[f1]: https://ikashnitsky.phd/2018/ddd-poster/compare-poster.png
+[f2]: https://ikashnitsky.phd/2018/ddd-poster/poster-award.png
